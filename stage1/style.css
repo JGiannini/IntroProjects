@@ -15,6 +15,10 @@ body{
 	background-color: black;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .header{
 	color:white;
 	font-size: 30px;
@@ -36,7 +40,7 @@ body{
 	display: flex;
 }
 
-.line-space{
+.line-space li{
 	margin-bottom: 20px;
 }
 
